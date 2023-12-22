@@ -1,0 +1,9 @@
+.card-img {
+  height: 200px;
+  width: auto;
+  background-repeat: no-repeat;
+}
+
+.book-card {
+  margin: 50px;
+}
